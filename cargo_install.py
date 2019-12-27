@@ -8,7 +8,8 @@ packages = [
     'fd-find',
     'bat',
     'exa',
-    'hyperfine'
+    'hyperfine',
+    'cargo-license'
 ]
 
 for package in packages:
