@@ -9,7 +9,8 @@ packages = [
     'bat',
     'exa',
     'hyperfine',
-    'cargo-license'
+    'cargo-license',
+    'diskus'
 ]
 
 for package in packages:
