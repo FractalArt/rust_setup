@@ -10,7 +10,8 @@ packages = [
     'exa',
     'hyperfine',
     'cargo-license',
-    'diskus'
+    'diskus',
+    'zoxide'
 ]
 
 for package in packages:
