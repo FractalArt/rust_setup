@@ -11,7 +11,8 @@ packages = [
     'hyperfine',
     'cargo-license',
     'diskus',
-    'du-dust'
+    'du-dust',
+    'emulsion'
 ]
 
 for package in packages:
