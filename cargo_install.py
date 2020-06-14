@@ -22,3 +22,7 @@ for package in packages:
         print("--- Error!")
     else:
         print("--- Done!")
+
+# Blindfold can so far not be installed by simple cargo install Blindfold
+# Github URL: https://github.com/Eoin-McMahon/Blindfold.git
+print(f"--- The package `Blindfold needs to be installed by hand.`")
