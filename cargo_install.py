@@ -12,7 +12,8 @@ packages = [
     'cargo-license',
     'diskus',
     'du-dust',
-    'emulsion'
+    'emulsion',
+    'tokei', # can also be installed with `cargo install tokei --features all`
 ]
 
 for package in packages:
