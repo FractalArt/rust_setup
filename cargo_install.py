@@ -15,6 +15,8 @@ packages = [
     'emulsion',
     'tokei', # can also be installed with `cargo install tokei --features all`
     'diskonaut',
+    'cargo-lichking',
+    'cargo-tree'
 ]
 
 for package in packages:
