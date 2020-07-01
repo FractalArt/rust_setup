@@ -16,7 +16,8 @@ packages = [
     'tokei', # can also be installed with `cargo install tokei --features all`
     'diskonaut',
     'cargo-lichking',
-    'cargo-tree'
+    'cargo-tree',
+    'cargo-deps'
 ]
 
 for package in packages:
