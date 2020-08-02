@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Also look at: https://zaiste.net/posts/shell-commands-rust/
+
 import subprocess as sp
 import sys
 
@@ -21,6 +23,8 @@ packages = [
     'procs',
     'ytop',
     'sd', # Nice to perform replacements in many files.
+    'grex', # create regexes from examples
+    'blindfold', # gitignore files
 ]
 
 for package in packages:
@@ -30,7 +34,3 @@ for package in packages:
         print("--- Error!")
     else:
         print("--- Done!")
-
-# Blindfold can so far not be installed by simple cargo install Blindfold
-# Github URL: https://github.com/Eoin-McMahon/Blindfold.git
-print(f"--- The package `Blindfold needs to be installed by hand.`")
