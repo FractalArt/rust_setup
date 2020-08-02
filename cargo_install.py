@@ -12,7 +12,7 @@ packages = [
     'exa',
     'hyperfine',
     'cargo-license',
-    'diskus',
+    #'diskus',
     'du-dust',
     'emulsion',
     'tokei', # can also be installed with `cargo install tokei --features all`
