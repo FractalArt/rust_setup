@@ -25,6 +25,7 @@ packages = [
     'sd', # Nice to perform replacements in many files.
     'grex', # create regexes from examples
     'blindfold', # gitignore files
+    'starship',
 ]
 
 for package in packages:
