@@ -20,6 +20,7 @@ packages = [
     'cargo-deps',
     'procs',
     'ytop',
+    'sd', # Nice to perform replacements in many files.
 ]
 
 for package in packages:
