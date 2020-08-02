@@ -19,6 +19,7 @@ packages = [
     'cargo-tree',
     'cargo-deps',
     'procs',
+    'ytop',
 ]
 
 for package in packages:
