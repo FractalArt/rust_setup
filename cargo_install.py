@@ -17,7 +17,8 @@ packages = [
     'diskonaut',
     'cargo-lichking',
     'cargo-tree',
-    'cargo-deps'
+    'cargo-deps',
+    'procs',
 ]
 
 for package in packages:
