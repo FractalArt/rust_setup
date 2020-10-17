@@ -25,7 +25,8 @@ packages = [
     'grex', # create regexes from examples
     'blindfold', # gitignore files
     'starship',
-    'mdbook'
+    'mdbook',
+    'lfs'
 ]
 
 for package in packages:
