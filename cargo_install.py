@@ -29,6 +29,7 @@ packages = [
     'lfs',
     #  sudo apt install libncurses5 libncurses5-dev libncursesw5 libncursesw5-dev
     #cargo install --git https://github.com/adder46/hstr-rs.git
+    #cargo install --git https://github.com/curlpipe/ox
 ]
 
 for package in packages:
