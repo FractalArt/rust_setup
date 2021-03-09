@@ -31,6 +31,8 @@ packages = [
     #cargo install --git https://github.com/adder46/hstr-rs.git
     #cargo install --git https://github.com/curlpipe/ox
     'zoxide',
+    # for benchmarking
+    'cargo-criterion'
 ]
 
 for package in packages:
