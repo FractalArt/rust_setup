@@ -32,7 +32,9 @@ packages = [
     #cargo install --git https://github.com/curlpipe/ox
     'zoxide',
     # for benchmarking
-    'cargo-criterion'
+    'cargo-criterion',
+    # for profiling
+    'flamegraph'
 ]
 
 for package in packages:
