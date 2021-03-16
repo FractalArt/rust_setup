@@ -34,7 +34,9 @@ packages = [
     # for benchmarking
     'cargo-criterion',
     # for profiling
-    'flamegraph'
+    'flamegraph',
+    # to practice typing
+    'ttyper'
 ]
 
 for package in packages:
