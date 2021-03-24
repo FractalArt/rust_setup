@@ -36,7 +36,8 @@ packages = [
     # for profiling
     'flamegraph',
     # to practice typing
-    'ttyper'
+    'ttyper',
+    'ferris-fetch'
 ]
 
 for package in packages:
