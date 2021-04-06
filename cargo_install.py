@@ -37,7 +37,9 @@ packages = [
     'flamegraph',
     # to practice typing
     'ttyper',
-    'ferris-fetch'
+    'ferris-fetch',
+    # file explorer
+    'xplr'
 ]
 
 for package in packages:
