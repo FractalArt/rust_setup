@@ -39,7 +39,9 @@ packages = [
     'ttyper',
     'ferris-fetch',
     # file explorer
-    'xplr'
+    'xplr',
+    # the amp editor
+    'amp'
 ]
 
 for package in packages:
