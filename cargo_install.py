@@ -41,7 +41,9 @@ packages = [
     # file explorer
     'xplr',
     # the amp editor
-    'amp'
+    'amp',
+    # alternative diff parser
+    'git-delta'
 ]
 
 for package in packages:
