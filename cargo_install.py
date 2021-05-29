@@ -43,7 +43,8 @@ packages = [
     # the amp editor
     'amp',
     # alternative diff parser
-    'git-delta'
+    'git-delta',
+    'hexyl' # hex viewer
 ]
 
 for package in packages:
